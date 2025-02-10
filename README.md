@@ -2,7 +2,7 @@
 Dashboard em Python utilizando o Dash e o Plotly.
 
 <div>
-<img src="assets/faturamentodaslojas" width="600px" />
+<img src="https://github.com/user-attachments/assets/faturamentodaslojas" width="600px" />
 
 # Sobre o Projeto 📑
 Com esse projeto de Dashboard com Python, poderemos verificar o faturamento de quantidade de produtos vendidos.
