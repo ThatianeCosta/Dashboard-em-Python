@@ -1,18 +1,18 @@
 # Dashboard-em-Python 👩🏻‍💻
-Dashboard em Python utilizando o Dash e o Plotly.
+Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em Python, focando na criação de gráficos interativos. A biblioteca Ploty é uma ferramenta poderosa para visualização de dados, permitindo a construção de gráficos dinâmicos e informativos. O Dash, por sua vez, é uma extensão do Ploty que possibilita a criação de aplicações web interativas, onde gráficos podem interagir com diversos componentes, como botões, caixas de seleção e listas de valores.
 
 <div>
 <img src="assets/faturamentodaslojas.png" width="750px" />
 
 # Sobre o Projeto 📑
-Com esse projeto de Dashboard com Python, poderemos verificar o faturamento de quantidade de produtos vendidos.
+Com esse projeto de Dashboard com Python, poderemos verificar a quantidade de produtos vendidos, com o foco na criação de gráficos dinâmicos que permitem a interação do usuário.
 
 # Como Funciona 🎯
 <div>
   <ul>
-    <li>O admin terá acesso a uma página inicial onde encontrará informações sobre o faturamento das lojas.
-    <li>Tem a opção de visualizar e analisar loja por loja.
-    <li>Através de uma planilha de excel, com todas as informações, é gerado um gráfico utilizando o Python. 
+    <li>O usuário terá acesso ao dashboard via navegador, após execução do código no VSCode.
+    <li>Integração com dados em Excel, permitindo a leitura e manipulação de informações diretamente de planilhas. 
+    <li>No gráfico encontrará informações sobre o faturamento das lojas, tem a opção de visualizar e analisar loja por loja.
     <li>Além disso, a aplicação pode ter recursos adicionais, filtrar as informações, como também permitir analises mais detalhada.      
     </li>  
   </ul>
