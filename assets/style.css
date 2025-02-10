@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400..800&display=swap');
+
+body {
+    background-color: #f8f2fd;
+}
+
+H1 {
+    color: #3c096c;
+    font-size: 42px;
+    ;
+}
+
+H2 {
+    color: #7b2cbf;
+    font-size: 25px;
+}
+
+DIV {
+    color: #9a49dc;
+    font-size: 17px;
+}
+
+.Dropdown {
+    margin: 20px auto;
+}
+
+.Graph {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 20px;
+}
