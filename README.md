@@ -1,13 +1,13 @@
-# Dashboard-em-Python 👩🏻‍💻
-Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em Python, focando na criação de gráficos interativos. A biblioteca Ploty é uma ferramenta poderosa para visualização de dados, permitindo a construção de gráficos dinâmicos e informativos. O Dash, por sua vez, é uma extensão do Ploty que possibilita a criação de aplicações web interativas, onde gráficos podem interagir com diversos componentes, como botões, caixas de seleção e listas de valores.
+# Dashboard em Python 📊
+Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em Python, focando na criação de gráficos interativos. A biblioteca **Ploty** é uma ferramenta poderosa para visualização de dados, permitindo a construção de gráficos dinâmicos e informativos. O **Dash**, por sua vez, é uma extensão do Ploty que possibilita a criação de aplicações web interativas, onde gráficos podem interagir com diversos componentes, como botões, caixas de seleção e listas de valores.
 
 <div>
 <img src="assets/faturamentodaslojas.png" width="750px" />
 
-# Sobre o Projeto 📑
+# Sobre o Projeto 📈 
 Com esse projeto de Dashboard com Python, poderemos verificar a quantidade de produtos vendidos, com o foco na criação de gráficos dinâmicos que permitem a interação do usuário.
 
-# Como Funciona 🎯
+# Como Funciona 📌
 <div>
   <ul>
     <li>O usuário terá acesso ao dashboard via navegador, após execução do código no VSCode.
@@ -18,21 +18,20 @@ Com esse projeto de Dashboard com Python, poderemos verificar a quantidade de pr
   </ul>
 </div>
 
-# Tecnologias 🛠️
+# Tecnologias 💻
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
-    <th>Backend</th>
+    <td> <b>Ploty:</b> Biblioteca para criação de gráficos interativos.</td>
   </thead>
   <tbody>
-    <tr>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td>Dash</td>
-    </tr>
-    <tr>
-      <td>Ploty</td>
-    </tr>
+    <thead>
+      <td> <b>Dash:</b> Extensão do Plotly para construir aplicações web interativas.</td>
+    </thead>
+    <thead>
+      <td> <b>Pandas:</b> Biblioteca para análise de dados.</td>
+    <thead>
+      <td> <b>Openpyxl:</b> Biblioteca necessária para leitura de dados em Excel pelo Pandas.</td>
+    </thead>
   </tbody>
 </table>
