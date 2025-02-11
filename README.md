@@ -5,15 +5,15 @@ Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em
 <img src="assets/faturamentodaslojas.png" width="750px" />
 
 # Sobre o Projeto 📈 
-Com esse projeto de Dashboard com Python, poderemos verificar a quantidade de produtos vendidos, com o foco na criação de gráficos dinâmicos que permitem a interação do usuário.
+Com esse projeto de Dashboard com Python, será possível acompanhar a quantidade de produtos vendidos, com ênfase na criação de um gráfico dinâmico que permitem a interação do usuário. A aplicação oferece uma experiência visual atrativa, facilitando a análise e interpretação dos dados de forma intuitiva.
 
 # Como Funciona 📌
 <div>
   <ul>
-    <li>O usuário terá acesso ao dashboard via navegador, após execução do código no VSCode.
-    <li>Integração com dados em Excel, permitindo a leitura e manipulação de informações diretamente de planilhas. 
-    <li>No gráfico encontrará informações sobre o faturamento das lojas, tem a opção de visualizar e analisar loja por loja.
-    <li>Além disso, a aplicação pode ter recursos adicionais, filtrar as informações, como também permitir analises mais detalhada.      
+    <li>O usuário poderá acessar o dashboard via navegador, após execução do código no VSCode.
+    <li>A aplicação integra dados de planilha do Excel, permitindo a leitura e manipulação eficiente das informações. 
+    <li>No dashboard, os usuários encontrará o gráfico que apresentam o faturamento das lojas, com a opção de visualizar e analisar cada loja individualmente.
+    <li>Além disso, a aplicação oferece recursos adicionais, como filtragem de dados e análises mais detalhadas, proporcionando uma experiência completa na exploração das informações.      
     </li>  
   </ul>
 </div>
