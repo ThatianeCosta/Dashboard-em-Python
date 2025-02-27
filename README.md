@@ -19,7 +19,7 @@ Com esse projeto de Dashboard com Python, será possível acompanhar a quantidad
   </ul>
 </div>
 
-# Tecnologias 💻
+# Tecnologias 👩‍💻
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
