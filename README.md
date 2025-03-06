@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/a54d984c-3980-4a7e-a316-3a9b3fef0545
 
 
 # Sobre o Projeto 📈 
-Com esse projeto de Dashboard com Python, será possível acompanhar a quantidade de produtos vendidos, com ênfase na criação de um gráfico dinâmico que permitem a interação do usuário. A aplicação oferece uma experiência visual atrativa, facilitando a análise e interpretação dos dados de forma intuitiva.
+Com esse repositório de Dashboard com Python, será possível acompanhar a quantidade de produtos vendidos, com ênfase na criação de um gráfico dinâmico que permitem a interação do usuário. A aplicação oferece uma experiência visual atrativa, facilitando a análise e interpretação dos dados de forma intuitiva.
 
 # Como Funciona 📌
 <div>
